@@ -3,9 +3,9 @@
     <channel>
         <title>Letss - Appcast</title>
         <item>
-            <title>Version 1.5.0</title>
-            <description>Better idea overview, notifications and some bugfixes.</description>
-            <pubDate>Sat, 16 Mar 2024 12:00:00 +0000</pubDate>
+            <title>Version 1.6.0</title>
+            <description>UX Improvements.</description>
+            <pubDate>Mon, 23 Apr 2024 23:00:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=com.letss.letssapp" sparkle:version="1.5.0" sparkle:os="android" />
         </item>
     </channel>
